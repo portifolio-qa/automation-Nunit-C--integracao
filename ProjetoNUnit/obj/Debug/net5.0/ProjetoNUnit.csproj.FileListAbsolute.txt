@@ -1,0 +1,408 @@
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\testhost.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\testhost.exe
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\nunit.engine.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\nunit.engine.api.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\nunit.engine.core.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ProjetoNUnit.deps.json
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ProjetoNUnit.runtimeconfig.json
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ProjetoNUnit.runtimeconfig.dev.json
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ProjetoNUnit.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ref\ProjetoNUnit.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ProjetoNUnit.pdb
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\NuGet.Frameworks.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\nunit.framework.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\WebDriver.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\obj\Debug\net5.0\ProjetoNUnit.csproj.AssemblyReference.cache
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\obj\Debug\net5.0\ProjetoNUnit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\obj\Debug\net5.0\ProjetoNUnit.AssemblyInfoInputs.cache
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\obj\Debug\net5.0\ProjetoNUnit.AssemblyInfo.cs
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\obj\Debug\net5.0\ProjetoNUnit.csproj.CoreCompileInputs.cache
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\obj\Debug\net5.0\ProjetoNUnit.csproj.CopyComplete
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\obj\Debug\net5.0\ProjetoNUnit.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\obj\Debug\net5.0\ref\ProjetoNUnit.dll
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\obj\Debug\net5.0\ProjetoNUnit.pdb
+D:\Rose Dias\Desktop\SVNs\QA\C#\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\obj\Debug\net5.0\ProjetoNUnit.genruntimeconfig.cache
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\testhost.exe
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\testhost.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\nunit.engine.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\nunit.engine.api.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\nunit.engine.core.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ProjetoNUnit.deps.json
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ProjetoNUnit.runtimeconfig.json
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ProjetoNUnit.runtimeconfig.dev.json
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ProjetoNUnit.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ref\ProjetoNUnit.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ProjetoNUnit.pdb
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\Newtonsoft.Json.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\NuGet.Frameworks.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\nunit.framework.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\WebDriver.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\obj\Debug\net5.0\ProjetoNUnit.csproj.AssemblyReference.cache
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\obj\Debug\net5.0\ProjetoNUnit.GeneratedMSBuildEditorConfig.editorconfig
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\obj\Debug\net5.0\ProjetoNUnit.AssemblyInfoInputs.cache
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\obj\Debug\net5.0\ProjetoNUnit.AssemblyInfo.cs
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\obj\Debug\net5.0\ProjetoNUnit.csproj.CoreCompileInputs.cache
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\obj\Debug\net5.0\ProjetoNUnit.csproj.CopyComplete
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\obj\Debug\net5.0\ProjetoNUnit.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\obj\Debug\net5.0\ref\ProjetoNUnit.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\obj\Debug\net5.0\ProjetoNUnit.pdb
+c:\www\Teste-de-unidade-para-desenvolvedores-C-\TreinamentoWeb\ProjetoNUnit\obj\Debug\net5.0\ProjetoNUnit.genruntimeconfig.cache
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\testhost.exe
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\testhost.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\nunit.engine.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\nunit.engine.api.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\nunit.engine.core.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ProjetoNUnit.deps.json
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ProjetoNUnit.runtimeconfig.json
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ProjetoNUnit.runtimeconfig.dev.json
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ProjetoNUnit.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ref\ProjetoNUnit.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ProjetoNUnit.pdb
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\Newtonsoft.Json.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\NuGet.Frameworks.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\nunit.framework.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\WebDriver.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\obj\Debug\net5.0\ProjetoNUnit.csproj.AssemblyReference.cache
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\obj\Debug\net5.0\ProjetoNUnit.GeneratedMSBuildEditorConfig.editorconfig
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\obj\Debug\net5.0\ProjetoNUnit.AssemblyInfoInputs.cache
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\obj\Debug\net5.0\ProjetoNUnit.AssemblyInfo.cs
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\obj\Debug\net5.0\ProjetoNUnit.csproj.CoreCompileInputs.cache
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\obj\Debug\net5.0\ProjetoNUnit.csproj.CopyComplete
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\obj\Debug\net5.0\ProjetoNUnit.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\obj\Debug\net5.0\ref\ProjetoNUnit.dll
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\obj\Debug\net5.0\ProjetoNUnit.pdb
+c:\www\Teste-de-unidade-para-desenvolvedores-C--main\TreinamentoWeb\ProjetoNUnit\obj\Debug\net5.0\ProjetoNUnit.genruntimeconfig.cache
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\testhost.exe
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\testhost.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\nunit.engine.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\nunit.engine.api.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\nunit.engine.core.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\ProjetoNUnit.deps.json
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\ProjetoNUnit.runtimeconfig.json
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\ProjetoNUnit.runtimeconfig.dev.json
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\ProjetoNUnit.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\ref\ProjetoNUnit.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\ProjetoNUnit.pdb
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\Newtonsoft.Json.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\NuGet.Frameworks.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\nunit.framework.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\WebDriver.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\obj\Debug\net5.0\ProjetoNUnit.csproj.AssemblyReference.cache
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\obj\Debug\net5.0\ProjetoNUnit.GeneratedMSBuildEditorConfig.editorconfig
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\obj\Debug\net5.0\ProjetoNUnit.AssemblyInfoInputs.cache
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\obj\Debug\net5.0\ProjetoNUnit.AssemblyInfo.cs
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\obj\Debug\net5.0\ProjetoNUnit.csproj.CoreCompileInputs.cache
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\obj\Debug\net5.0\ProjetoNUnit.csproj.CopyComplete
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\obj\Debug\net5.0\ProjetoNUnit.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\obj\Debug\net5.0\ref\ProjetoNUnit.dll
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\obj\Debug\net5.0\ProjetoNUnit.pdb
+c:\www\automation-Nunit-C--integracao\ProjetoNUnit\obj\Debug\net5.0\ProjetoNUnit.genruntimeconfig.cache
